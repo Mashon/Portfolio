@@ -38,7 +38,7 @@ h6 {
 
 }
 
-.vote_game {
+.groupboard {
   height:400px;
   width: 400px;
   border-radius: 25px;
@@ -49,6 +49,17 @@ h6 {
 
 }
 
+.description {
+  font-weight: normal;
+}
+
+.mashon {
+  border-radius: 25px;
+  margin-left: 10em;
+  /*-moz-box-shadow:    3px 3px 7px 8px #ccc;
+  -webkit-box-shadow: 3px 3px 7px 8px #ccc;
+  box-shadow:         3px 3px 7px 8px #ccc;*/
+}
 
 
 .lead {
